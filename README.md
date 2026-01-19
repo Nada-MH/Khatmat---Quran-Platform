@@ -1,1 +1,1 @@
-# Khatmat---Quran-Platform
+# Khatmat-Quran-Platform
