@@ -1,0 +1,8 @@
+{
+  "name": "Khatmat - Quran Platform",
+  "description": "A comprehensive digital platform for managing Quran group completions (Khatmat) and volunteer-led study circles (Halaqat) with interactive progress tracking and smart volunteer matching.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
